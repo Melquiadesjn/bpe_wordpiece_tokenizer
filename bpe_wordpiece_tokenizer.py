@@ -111,3 +111,4 @@ print("=" * 55)
 # ajuste: explicacao da funcao merge_vocab
 # ajuste: selecao do par mais frequente
 # ajuste: inicio do loop de treinamento
+# ajuste: integracao com tokenizer WordPiece
