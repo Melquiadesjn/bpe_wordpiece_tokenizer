@@ -109,3 +109,4 @@ print("=" * 55)
 # ajuste: descricao inicial do tokenizer
 # ajuste: explicacao da funcao get_stats
 # ajuste: explicacao da funcao merge_vocab
+# ajuste: selecao do par mais frequente
