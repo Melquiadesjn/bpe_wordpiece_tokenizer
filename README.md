@@ -1,4 +1,4 @@
-# Laboratório 6 - P2: Tokenizador BPE e WordPiece
+# Laboratório 6 - P2: Construindo um Tokenizador BPE e Explorando o WordPiece
 
 ## Estrutura do Projeto
 
