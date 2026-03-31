@@ -106,3 +106,4 @@ for idx, tok in enumerate(tokens):
     print(f"  [{idx:02d}] {marcador} {tok}")
 
 print("=" * 55)
+# ajuste: descricao inicial do tokenizer
