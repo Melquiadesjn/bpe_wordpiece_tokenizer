@@ -112,3 +112,4 @@ print("=" * 55)
 # ajuste: selecao do par mais frequente
 # ajuste: inicio do loop de treinamento
 # ajuste: integracao com tokenizer WordPiece
+# ajuste: finalizacao do fluxo do script
