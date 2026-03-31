@@ -107,3 +107,4 @@ for idx, tok in enumerate(tokens):
 
 print("=" * 55)
 # ajuste: descricao inicial do tokenizer
+# ajuste: explicacao da funcao get_stats
